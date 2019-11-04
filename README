@@ -396,3 +396,6 @@ python Scripts/plotRep.py Results/replicate1.csv Results/replicate2.csv rep_rep1
 
 ###############################################################################
 
+This code is associated with the paper from Morgens et al., "Retro-2 protects cells from 
+ricin toxicity by inhibiting ASNA1-mediated ER targeting and insertion of tail-anchored 
+proteins". eLife, 2019. http://dx.doi.org/10.7554/eLife.48434
